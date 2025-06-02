@@ -1,4 +1,4 @@
-package com.mycondo.app;
+package com.mycondo.app.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.GetMapping;
